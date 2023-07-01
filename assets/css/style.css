@@ -4,3 +4,8 @@
     background-attachment: fixed;
     background-size: cover;
 }
+
+.rounded-circle {
+    width: 25%;
+    padding-top: 10%;
+}
